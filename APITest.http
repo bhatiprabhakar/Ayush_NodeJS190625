@@ -1,0 +1,6 @@
+POST  http://localhost:3000/api/postUserData
+Content-Type: application/json
+
+{
+    "Name":"Ayush Rastogi" , "Email":"ayush123@gmail.com" , "MobileNumber":"911234567890" , "Address":"Noida" , "DateOfBirth":"19-07-1998" , "CreatedBy":"danish.ansari"
+}
